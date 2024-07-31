@@ -65,7 +65,7 @@ main{
     min-height:100vh;
 }
 .main-container-home{
-  background:linear-gradient(  rgb(59, 7, 156) 30%, transparent), url(./images/background-new.jpg) no-repeat center/cover;
+  background:linear-gradient(rgb(59, 7, 156) 1%, transparent), url(./images/background-new.jpg) no-repeat center/cover;
 }
 
 .main-container {
